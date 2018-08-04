@@ -47,7 +47,7 @@
 - 网页重定向到List页面
 
 
-###注意点
+### 注意点
 
 - 当网页乱码时加上(**charset和=中间不能有空格**)
     `header('content-type:text/html;charset=utf-8');`
@@ -87,7 +87,8 @@
 
 
 
-- 
+- 关于循环结构中break、continue、return和exit的区别
+[循环](https://blog.csdn.net/hunanchenxingyu/article/details/8101795)
 
 
 
