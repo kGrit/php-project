@@ -1,4 +1,3 @@
-[OC]
 # php-project
 通过JSON文件实现音乐列表的增删改
 
